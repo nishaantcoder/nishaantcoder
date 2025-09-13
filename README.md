@@ -99,7 +99,6 @@ I'm just starting my journey in aerospace engineering, learning through online r
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishaantcoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishaantcoder&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
@@ -157,12 +156,12 @@ Update soon!
 
 ## 📈 Learning Progress
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishaantcoder&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nishaantcoder&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -171,4 +170,4 @@ Update soon!
 
 ---
 
-*⭐ From [YourUsername](https://github.com/YourUsername) - Learning aerospace engineering one commit at a time*
+*⭐ From [nishaantcoder](https://github.com/nishaantcoder) - Learning aerospace engineering one commit at a time*
