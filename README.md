@@ -16,9 +16,8 @@
 
 > *"The sky is not the limit; it's just the beginning of my journey."*
 
-I'm an aspiring aerospace engineer with a passion for pushing the boundaries of human exploration beyond Earth. Currently pursuing my degree in Aerospace Engineering, I combine theoretical knowledge with hands-on programming to solve complex problems in flight dynamics, propulsion systems, and space mission design.
-
-- 🎓 **Education**: B.S. in Aerospace Engineering (Expected 2025)
+I'm an aspiring aerospace engineer with a passion for pushing the boundaries of human exploration beyond Earth. Currently learning Aerospace Engineering.
+- 🎓 **Education**: B.Tech in Mechanical Engineering
 - 🔬 **Research Focus**: Computational Fluid Dynamics, Rocket Propulsion, Orbital Mechanics
 - 🎯 **Career Goal**: Contributing to humanity's expansion into the cosmos
 - 🌌 **Dream Project**: Designing propulsion systems for Mars colonization missions
